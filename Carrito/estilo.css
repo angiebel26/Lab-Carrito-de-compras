@@ -5,7 +5,7 @@
     font-family: 'Open Sans';
 }
 header{
-    background: url(img/Delicious\ Food.png);
+    background: url(/Carrito/img/delicious-food.png);
     background-size: cover;
     background-position:center;
     height: 250px;
